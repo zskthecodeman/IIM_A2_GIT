@@ -1,13 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: zskpa
- * Date: 18/04/2018
- * Time: 16:29
- */
+
 $host = 'localhost';
 $dbname = 'IIM_Git_SoundCloud';
-$user = 'rootk';
+$user = 'root';
 $pass = '';
 
 

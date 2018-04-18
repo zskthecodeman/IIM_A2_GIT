@@ -7,7 +7,7 @@
  */
 $host = 'localhost';
 $dbname = 'IIM_Git_SoundCloud';
-$user = 'rootk';
+$user = 'root';
 $pass = '';
 
 

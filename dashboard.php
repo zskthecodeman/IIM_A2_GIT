@@ -12,6 +12,7 @@ require('model/functions.fn.php');
 	exit();
 }
 
+
 $musics = listMusics($db);
 
 include 'view/_header.php';
